@@ -1,0 +1,55 @@
+Sistemas operacionais
+
+Conceitos:
+
+
+Os sistemas operacionais são pontes que possibilitam a comunicação entre as aplicações e o hardware de um dispositivo. Todo software que roda em um computador ou celular precisa se relacionar com determinados componentes técnicos do aparelho, como processador, placa de vídeo e memória RAM, para realizar suas funções. Como esse processo acontece simultaneamente com vários programas de uma vez, é preciso que uma ferramenta extra organize esse fluxo de comandos enviados à peças. Esse é o papel do sistema operacional.
+
+Sistema operacional de propósito geral: estes sistemas são compatíveis com um ampla gama de modelos de desktops e laptops, além de executar diversos tipos de aplicativos em uma multiplicidade hardwares. Essa categoria também permite que o usuário execute mais de um aplicativo ou tarefa ao mesmo tempo. Ex: Microsoft Windows, McOS, Linux.
+
+Sistema operacional móvel: são sistemas desenvolvidos para as necessidades de dispositivos móveis, como smartphones e tablets. Normalmente, são menores e menos complexos do que os demais tipos de sistemas. Ex: Android, iOS, HyperOS: plataforma de marcas como Xiaomi.
+
+Sistema operacional embarcado: este sistema é desenvolvido para fins específicos e funciona em pequenos computadores que controlam, por exemplo, eletrodomésticos, aeronaves e linhas de produção industriais. Ex: FireOS nas smartvs.
+
+Sistema operacional de rede: o NOS (sigla em inglês) é um tipo de sistema operacional que facilita a comunicação entre dispositivos que operam em uma rede local. Atualmente, o conceito de NOS é cada vez menos usado, já que outros tipos de sistemas operacionais lidam com a comunicação em rede. Ele ainda é usado em alguns dispositivos como roteadores e firewalls.
+
+Sistema operacional de tempo real: o RTOS (sigla em inglês) é usado em situações em que o computador deve interagir com o mundo real de forma imediata e constante. É um sistema que precisar operar sem atrasos ou tempo de carregamento, com alta precisão. O RTOS é usado em indústrias como da saúde, robótica e gás e petróleo, por exemplo.
+
+
+
+Link:
+
+https://www.techtudo.com.br/guia/2024/03/o-que-e-um-sistema-operacional-veja-tipos-e-exemplos-edsoftwares.ghtml
+
+
+Conceito:
+
+O sistema operacional é um software que serve como base para qualquer computador ou celular. Essas plataformas são responsáveis por todo o funcionamento dos aparelhos, traduzindo comandos em processamento, gerenciando componentes e exibindo as informações em um formato amigável e acessível, servindo como uma interface entre o usuário e seus dispositivos.
+
+O Windows, utilizado pela maior parte dos usuários de PC, seguidos do Linux, mcOS, CromeOS e o Android, que é o preferido entre os celulares, são exemplos de sistemas operacionais. Ações como dados digitados, toques na tela, cliques com o mouse ou downloads passam por ele, que também é o responsável por gerenciar todos os recursos do sistema, como o acesso à internet e o hardware disponível.
+
+Link: https://canaltech.com.br/apps/o-que-e-um-sistema-operacional/
+
+
+
+Conceito:
+
+
+
+Programa que realiza a interface entre os softwares aplicativos e o hardware. É uma camada de Software que controla o acesso a todos os recursos de hardware e software. Programa que está entre o usuário e a máquina.
+
+O Sistema Operacional gerencia os recursos, oferece ao usuário facilidades para se comunicar com o computador e serve de
+plataforma para execução de programas.
+
+O sistema operacional é o núcleo do mecanismo que faz o computador funcionar. Ele trabalha nos bastidores de
+intermediário entre as solicitações dos usuários e dos programas; gerencia e orienta o hardware do computador.
+Lê e grava dados de e para unidades de disco.
+
+
+Link: https://docente.ifrn.edu.br/igoralves/informatica-basica/sistemas-operacionais-1
+
+
+
+
+
+
